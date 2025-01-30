@@ -1,0 +1,2 @@
+# Docker Compose: Once you’ve created your Dockerfiles, use Docker Compose to link the backend and vector store together for local testing, which simplifies the process of running multiple containers.
+# Cloud Deployment: Be mindful that cloud platforms like Heroku will often require additional configuration, such as specifying resource allocations for larger models (like your 2GB LLM).
